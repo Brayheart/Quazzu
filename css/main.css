@@ -5,9 +5,19 @@
   min-height: 600px;
   color: #fff;
 }
+.main-header-inner {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: #fff;
+}
 
 .main-header .showcase {
   padding-top: 100px;
+}
+.main-header-inner .showcase {
+  padding-top: 50px;
 }
 
 .active-link {
@@ -61,4 +71,8 @@
 
 .carousel-item p{
   font-size: 20px !important;
+}
+
+.tabs .indicator{
+  background-color: #6a1b9a !important;
 }
