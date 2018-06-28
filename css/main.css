@@ -69,6 +69,11 @@
   }
 }
 
+.btn-extend{
+  display: block;
+  width: 100%
+}
+
 .carousel-item p{
   font-size: 20px !important;
 }
